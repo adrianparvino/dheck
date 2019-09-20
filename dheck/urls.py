@@ -1,3 +1,4 @@
+from index.views import IndexView
 """dheck URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -17,5 +18,6 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
+    path('', IndexView.as_view()),
     path('admin/', admin.site.urls),
 ]
