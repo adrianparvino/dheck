@@ -1,0 +1,19 @@
+{
+    "Basic Card": 10000,
+    "Classic": 10001,
+    "Darkness Evolved": 10002,
+    "Rise of Bahamut": 10003,
+    "Tempest of the Gods": 10004,
+    "Wonderland Dreams": 10005,
+    "Starforged Legends": 10006,
+    "Chronogenesis": 10007,
+    "Dawnbreak, Nightedge": 10008,
+    "Brigade of the Sky": 10009,
+    "Omen of the Ten": 10010,
+    "Altersphere": 10011,
+    "Steel Rebellion": 10012,
+    "Rebirth of Glory": 10013,
+    "Veridant Conflict": 10014,
+    "Promotional": 70000,
+    "Token": 90000
+}
