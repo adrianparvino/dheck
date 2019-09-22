@@ -6,5 +6,5 @@ setup(
     version='0.1',
     packages=find_packages(),
     scripts=['manage.py'],
-    data_files=[]
+    include_package_data=True
 )
